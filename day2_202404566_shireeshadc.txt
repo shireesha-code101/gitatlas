@@ -1,0 +1,47 @@
+GIT AND GIT HUB
+·  	Git : git is a tool that helps to track changes in the code
+·  	Github : allows developers to store and manage their code using git
+·  	To check git version
+ git –version
+·  	git workflow
+git init ----- working directory
+git add ----- staging area
+git commit ----- repository
+git push ----- github
+·  	git bash
+git init
+git add <filename.txt>
+git commit -m <”…..”>
+git clone <link>
+git remote add origin <link>
+git config –global user.email <”email”>
+git config –global user.name <”username”>
+git status
+git add .
+git push origin master
+
+ 
+ 
+
+ 
+ 
+· 	To create a new branch
+Git log
+Git checkout -b branchname
+Git add <branchname.txt>
+Git commit -m <”….”>
+Git push origin <branchname>
+
+ 
+
+
+
+
+· 	To reset
+git reset <file name>
+    	or
+git reset .
+ 
+
+ 
+
